@@ -1,7 +1,6 @@
 #ifdef M5UNIFIED
 #include <M5GFX.h>
 #include <M5Unified.h>
-// M5GFX display;
 #include <SD.h>
 #else
 #include <SPIFFS.h>
